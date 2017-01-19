@@ -1,0 +1,434 @@
+/* i made a blog instead whoops */
+@import url("https://fonts.googleapis.com/css?family=Caveat+Brush|Crimson+Text:400,400i|Montserrat");
+/* line 7, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+body {
+  font-family: "Crimson Text", garamond, serif;
+  font-size: 1rem;
+  color: #666;
+  background: #fefefe;
+  margin: 0;
+  padding: 0; }
+
+/* line 18, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+a {
+  text-decoration: none; }
+
+/* line 19, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+h1, header h2, h2, h3, h4, h5, h6 {
+  font-family: "Caveat Brush", "arial black", cursive;
+  font-weight: normal; }
+
+/* line 25, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+b, strong {
+  font-weight: normal;
+  color: black; }
+
+/* line 27, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+#wrapper {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  -webkit-transition: margin-left 0.5s;
+  -moz-transition: margin-left 0.5s;
+  -ms-transition: margin-left 0.5s;
+  -o-transition: margin-left 0.5s;
+  transition: margin-left 0.5s; }
+
+/* line 34, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+header {
+  height: 500px;
+  padding: 20px;
+  background-color: #ffd3ce;
+  background-image: url("/img/banner.png");
+  background-repeat: no-repeat;
+  background-position: 100% 5%;
+  background-attachment: fixed;
+  background-size: contain; }
+  @media screen and (max-width: 720px) {
+    /* line 34, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    header {
+      height: 250px; } }
+  @media screen and (max-width: 320px) {
+    /* line 34, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    header {
+      height: 230px; } }
+  /* line 47, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  header h1, header h2 {
+    margin-top: 75px;
+    margin-left: 50px;
+    font-size: 5rem;
+    text-align: left;
+    text-shadow: -4px 4px #a9777a;
+    color: #fff; }
+    /* line 54, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    header h1 a, header h2 a {
+      color: #fff; }
+    @media screen and (max-width: 720px) {
+      /* line 47, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+      header h1, header h2 {
+        position: relative;
+        top: 50px;
+        left: -20px;
+        margin: 0;
+        text-align: center;
+        text-shadow: -2px 2px #a9777a; } }
+  /* line 64, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  header h2 {
+    margin-top: -70px;
+    font-size: 3rem;
+    text-shadow: -2px 2px 1px #a9777a; }
+    @media screen and (max-width: 720px) {
+      /* line 64, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+      header h2 {
+        position: relative;
+        top: 110px;
+        font: 1.85rem/1rem "Caveat Brush", "arial black", cursive; } }
+
+/* line 77, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+nav {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  padding-top: 50px;
+  font-family: Montserrat, arial, sans-serif;
+  background: #ffd3ce;
+  overflow-x: hidden;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s; }
+  @media screen and (max-height: 450px) {
+    /* line 77, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    nav {
+      padding-top: 50px; } }
+  /* line 90, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  nav h1, nav header h2, header nav h2 {
+    color: #a9777a;
+    margin: 0;
+    padding: 0 20px; }
+    /* line 90, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    nav h1:first-of-type, nav header h2:first-of-type, header nav h2:first-of-type {
+      margin-top: -20px; }
+  /* line 91, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  nav a {
+    display: block;
+    padding: 5px 10px;
+    margin: 0 10px 10px;
+    text-transform: capitalize;
+    color: #fff;
+    background: #d99fab;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-transition: all 0.35s ease;
+    -moz-transition: all 0.35s ease;
+    -ms-transition: all 0.35s ease;
+    -o-transition: all 0.35s ease;
+    transition: all 0.35s ease; }
+    /* line 99, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    nav a:hover, nav a:focus {
+      color: #666;
+      background: #ffd3ce; }
+    @media screen and (max-height: 450px) {
+      /* line 91, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+      nav a {
+        font-size: 0.85rem; } }
+
+/* line 104, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+.toggle {
+  display: inline-block;
+  position: fixed;
+  left: 20px;
+  padding: 5px 10px;
+  font-size: 1.5rem;
+  color: #fff;
+  background: #ba888b;
+  border: none;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  cursor: pointer; }
+
+/* line 117, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+.closebtn {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  margin: 0;
+  padding: 0;
+  font: 2.5rem/1rem "Crimson Text", garamond, serif;
+  color: #888;
+  background: none;
+  -webkit-transition: none;
+  -moz-transition: none;
+  -ms-transition: none;
+  -o-transition: none;
+  transition: none; }
+  /* line 127, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  .closebtn:hover, .closebtn:focus {
+    color: #ba888b;
+    background: none; }
+
+/* line 130, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+section {
+  padding: 50px 15%;
+  text-align: justify; }
+  @media screen and (max-width: 720px) {
+    /* line 130, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    section {
+      padding: 20px 50px; } }
+  @media screen and (max-width: 320px) {
+    /* line 130, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    section {
+      padding: 15px 30px; } }
+
+/* line 137, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+article {
+  margin: 50px auto;
+  font: 1.2rem/1.5 "Crimson Text", garamond, serif; }
+  /* line 140, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  article:first-child {
+    margin-top: 0; }
+  /* line 141, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  article:last-child {
+    margin-bottom: 0; }
+  @media screen and (max-width: 720px) {
+    /* line 137, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    article {
+      margin: 20px auto; } }
+  @media screen and (max-width: 320px) {
+    /* line 137, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    article {
+      margin: 15px auto; } }
+  /* line 144, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  article a {
+    color: #a9777a;
+    -webkit-transition: color 0.6s ease;
+    -moz-transition: color 0.6s ease;
+    -ms-transition: color 0.6s ease;
+    -o-transition: color 0.6s ease;
+    transition: color 0.6s ease; }
+    /* line 144, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    article a:hover, article a:focus {
+      color: #ccc; }
+  /* line 145, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  article h1 {
+    margin: 0 0 20px 0;
+    font: 2.5rem/1 "Caveat Brush", "arial black", cursive;
+    text-align: center;
+    color: #ba888b; }
+    /* line 150, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    article h1 a {
+      color: #ba888b;
+      -webkit-transition: color 0.6s ease;
+      -moz-transition: color 0.6s ease;
+      -ms-transition: color 0.6s ease;
+      -o-transition: color 0.6s ease;
+      transition: color 0.6s ease; }
+      /* line 153, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+      article h1 a:hover, article h1 a:focus {
+        color: #d99fab; }
+    @media screen and (max-width: 320px) {
+      /* line 145, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+      article h1 {
+        font-size: 2rem; } }
+
+/* details */
+.comment {
+  font: 1.25rem Montserrat, arial, sans-serif;
+  color: #fff;
+  background: #a9777a;
+  padding: 5px 10px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  border-radius: 5px;
+  -webkit-transition: color 0.4s ease;
+  -moz-transition: color 0.4s ease;
+  -ms-transition: color 0.4s ease;
+  -o-transition: color 0.4s ease;
+  transition: color 0.4s ease;
+}
+/* line 161, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+.meta, .tagged {
+  margin-top: 10px;
+  font: 0.9rem Montserrat, arial, sans-serif; }
+  /* line 164, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+/* line 173, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+.tagged { margin-bottom: 30px; }
+  /* line 184, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  .tagged a {
+    padding: 3px 5px;
+    margin: 0 2px;
+    color: #fff;
+    background: #ba888b;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-transition: color 0.4s ease;
+    -moz-transition: color 0.4s ease;
+    -ms-transition: color 0.4s ease;
+    -o-transition: color 0.4s ease;
+    transition: color 0.4s ease; }
+    /* line 191, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    .tagged a:first-child, .tagged a:last-child {
+      margin: 0; }
+    /* line 192, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    .tagged a:hover, .tagged a:focus, .comment:hover, .coment:focus {
+      color: #a9777a;
+      background: #ffd3ce; }
+
+/* line 196, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+hr {
+  height: 1px;
+  width: 90%;
+  border: none;
+  background: #ccc; }
+  /* line 201, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  hr:last-child {
+    margin-bottom: -35px;
+    padding-bottom: 0; }
+
+/* line 204, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+#pages {
+  display: inline-block;
+  margin: 0;
+  padding: 20px 0;
+  width: 100%;
+  font-size: 2rem; }
+  /* line 210, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  #pages a {
+    color: #a9777a;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease; }
+  @media screen and (max-width: 320px) {
+    /* line 204, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+    #pages {
+      margin-top: 10px; } }
+
+/* line 214, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+.left, .right {
+  float: left;
+  padding: 0 20%; }
+  /* line 217, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  .left:hover, .right:hover, .left:focus, .right:focus {
+    -webkit-animation: navLeft 1s ease-in-out infinite alternate;
+    -moz-animation: navLeft 1s ease-in-out infinite alternate;
+    -ms-animation: navLeft 1s ease-in-out infinite alternate;
+    -o-animation: navLeft 1s ease-in-out infinite alternate;
+    animation: navLeft 1s ease-in-out infinite alternate; }
+    @media screen and (max-width: 320px) {
+      /* line 217, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+      .left:hover, .right:hover, .left:focus, .right:focus {
+        -webkit-animation: none;
+        -moz-animation: none;
+        -ms-animation: none;
+        -o-animation: none;
+        animation: none;
+        color: #666; } }
+
+/* line 225, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+.right {
+  float: right; }
+  /* line 228, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  .right:hover, .right:focus {
+    -webkit-animation: navRight 1s ease-in-out infinite alternate;
+    -moz-animation: navRight 1s ease-in-out infinite alternate;
+    -ms-animation: navRight 1s ease-in-out infinite alternate;
+    -o-animation: navRight 1s ease-in-out infinite alternate;
+    animation: navRight 1s ease-in-out infinite alternate; }
+
+/* line 230, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+.disabled {
+  color: #ccc !important;
+  cursor: default; }
+  /* line 233, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  .disabled:hover, .disabledfocus {
+    -webkit-animation: none;
+    -moz-animation: none;
+    -ms-animation: none;
+    -o-animation: none;
+    animation: none; }
+
+/* line 236, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+footer {
+  clear: both;
+  padding: 20px;
+  font: 0.8rem Montserrat, arial, sans-serif;
+  background-color: #eee; }
+
+@-webkit-keyframes navLeft {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(-50px); } }
+
+@-moz-keyframes navLeft {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(-50px); } }
+
+@-ms-keyframes navLeft {
+  /* line 244, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  0% {
+    transform: translateX(0); }
+  /* line 245, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  100% {
+    transform: translateX(-50px); } }
+
+@-o-keyframes navLeft {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(-50px); } }
+
+@keyframes navLeft {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(-50px); } }
+
+@-webkit-keyframes navRight {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(50px); } }
+
+@-moz-keyframes navRight {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(50px); } }
+
+@-ms-keyframes navRight {
+  /* line 248, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  0% {
+    transform: translateX(0); }
+  /* line 249, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+  100% {
+    transform: translateX(50px); } }
+
+@-o-keyframes navRight {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(50px); } }
+
+@keyframes navRight {
+  0% {
+    transform: translateX(0); }
+  100% {
+    transform: translateX(50px); } }
+
+/*# sourceMappingURL=stylesheet.css.map */

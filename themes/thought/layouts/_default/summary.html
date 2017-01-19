@@ -1,0 +1,15 @@
+	<article>
+		<h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+		<time class="meta"><i class="fa fa-pencil fa-fw" aria-hidden="true"></i> Written on {{ .Date.Format "January 2, 2006" }}</time>
+		<p class="tagged"><i class="fa fa-tags fa-fw" aria-hidden="true"></i>
+		  {{ range .Params.tags }}
+		  <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+		  {{ end }}
+		</p>
+
+		{{ .Summary }}
+		{{ if .Truncated }}
+			<p><a href="{{ .Permalink }}">…Continue?</a></p>
+		{{ end }}
+		<p align="center"><a class="comment" href="{{ .Permalink }}#disqus_thread"><i class="fa fa-commenting" aria-hidden="true"></i> Comments</a></p>
+	</article>

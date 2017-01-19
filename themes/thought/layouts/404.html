@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+{{ partial "sidebar.html" . }}
+{{ partial "banner.html" . }}
+
+<section>
+	<article>
+		<h1>Whoops! 404 Error!</h1>
+		<p>Sorry about that! Either this page got lost somewhere or it simply exists in the void. It will be dearly missed.</p>
+    <p>On that note, would you like to head back to <a href="{{ .Site.BaseURL }}">mainland</a>?</p>
+	</article>
+</section>
+
+{{ partial "footer.html" . }}

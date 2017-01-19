@@ -1,0 +1,19 @@
+---
+baseurl: https://heroish.org/
+languageCode: en-us
+title: Heroish
+metaDataFormat: "yaml"
+theme: "thought"
+disqusShortname: "hero-y"
+permalinks:
+  post: /:section/:title/
+params:
+  author: "Ree"
+  description: "a nerd's web playground"
+menu:
+  main:
+    - Name: "About"
+      Weight: -110
+      Identifier: "about"
+      URL: "/about/"
+...

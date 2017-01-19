@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+{{ partial "sidebar.html" . }}
+{{ partial "banner.html" . }}
+
+	<section>
+		{{ range .Data.Pages }}
+			{{ .Render "summary"}}
+			<hr />
+		{{ end }}
+	</section>
+	{{ partial "pagination.html" . }}
+
+{{ partial "footer.html" . }}

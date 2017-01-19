@@ -1,0 +1,12 @@
+<div id="pages">
+{{ if .Paginator.HasPrev }}
+	<a class="left" href="{{ .Paginator.Prev.URL }}">
+		<i class="fa fa-hand-o-left" aria-label="Newer"></i>
+	</a>
+{{ end }}
+{{ if .Paginator.HasNext }}
+	<a class="right" href="{{ .Paginator.Next.URL }}">
+		<i class="fa fa-hand-o-right" aria-label="Older"></i>
+	</a>
+{{ end }}
+</div>

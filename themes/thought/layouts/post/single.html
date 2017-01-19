@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+{{ partial "sidebar.html" . }}
+{{ partial "banner.html" . }}
+
+	<section>
+
+		<article>
+		  <h1>{{ .Title }}</h1>
+			{{ partial "meta.html" . }}
+
+			{{ with .Params.image_name }}
+				<img src="{{ .Params.image_name }}" />
+			{{ end }}
+		  {{ .Content }}
+
+			{{ partial "disqus.html" . }}
+		</article>
+
+	</section>
+
+{{ partial "footer.html" . }}
