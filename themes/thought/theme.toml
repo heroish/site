@@ -2,14 +2,12 @@
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
 name = "Thought"
-license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
 description = "lol what not urs binch"
-homepage = "http://siteforthistheme.com/"
+homepage = "http://heroish.org/"
 tags = ["", ""]
 features = ["", ""]
-min_version = 0.18
+min_version = 0.17
 
 [author]
   name = "Ree"
-  homepage = ""
+  homepage = "http://heroish.org/"
