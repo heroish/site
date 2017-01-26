@@ -12,6 +12,6 @@ title: Working!!
 
 OKAY everything should be working now and hopefully there won't be anymore surprises. Anyways, hello! My name's Ree. I do all sorts of dumb stuff - like coding and drawing and gaming and writing.
 
-This is a personal blog of mine so I'll write about all sorts of things in my life like games, school (and art by association because I'm an art student), and writing.
+This is a personal blog of mine so I'll write about all sorts of things in my life like games, school (and art by association because I'm an art student), and writing. Yep.
 
 Hoping that I'll finally keep up with this blog! o/
