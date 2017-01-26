@@ -16,4 +16,8 @@ menu:
       Weight: -110
       Identifier: "about"
       URL: "/about/"
+    - Name: "Contact"
+      Weight: -100
+      Identifier: "contact"
+      URL: "/contact/"
 ...
