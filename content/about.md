@@ -12,4 +12,10 @@ Some neato facts about myself:
 - Along with wanting to work at an animation/game studio, I also want to write a novel  about adventures in a fantastical world. *And you can't stop me!*
 - Sometimes I feel like I live in an Onion article.
 
-*Will probably add some social links here later...*
+<i class="fa fa-github-alt" aria-hidden="true"></i> [Github](https://github.com/heroish)  
+<i class="fa fa-twitter" aria-hidden="true"></i> [Twitter](https://twitter.com/reeses_kk)  
+<i class="fa fa-tumblr" aria-hidden="true"></i> [Tumblr](http://faolae.tumblr.com/)  
+<i class="fa fa-twitch" aria-hidden="true"></i> [Twitch](https://www.twitch.tv/faolae)  
+<i class="fa fa-steam" aria-hidden="true"></i> [Steam](http://steamcommunity.com/profiles/76561198069396785)  
+**Archive of Our Own** [reeses](http://archiveofourown.org/users/reeses)  
+**FanFiction** [faolae](https://www.fanfiction.net/~faolae)
