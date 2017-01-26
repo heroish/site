@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Heroish</title>
+    <link>https://heroish.org/tags/test/index.xml</link>
+    <description>Recent content in Test on Heroish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://heroish.org/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Working!!</title>
+      <link>https://heroish.org/post/working/</link>
+      <pubDate>Wed, 25 Jan 2017 02:14:45 -0500</pubDate>
+      
+      <guid>https://heroish.org/post/working/</guid>
+      <description>&lt;p&gt;OKAY everything should be working now and hopefully there won&amp;rsquo;t be anymore surprises. Anyways, hello! My name&amp;rsquo;s Ree. I do all sorts of dumb stuff - like coding and drawing and gaming and writing.&lt;/p&gt;
+
+&lt;p&gt;This is a personal blog of mine so I&amp;rsquo;ll write about all sorts of things in my life like games, school (and art by association because I&amp;rsquo;m an art student), and writing.&lt;/p&gt;
+
+&lt;p&gt;Hoping that I&amp;rsquo;ll finally keep up with this blog! o/&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>https://heroish.org/post/hello-world/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://heroish.org/post/hello-world/</guid>
+      <description>&lt;p&gt;yoyoyo idk what i&amp;rsquo;m doing but i hope it&amp;rsquo;s something lel&lt;/p&gt;
+
+&lt;p&gt;SOOOOOO i&amp;rsquo;m just gonna test some things here, yepyep!&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

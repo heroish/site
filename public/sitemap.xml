@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://heroish.org/post/working/</loc>
+    <lastmod>2017-01-25T02:14:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/contact/</loc>
+    <lastmod>2017-01-25T01:36:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/about/</loc>
+    <lastmod>2017-01-17T18:24:55-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/post/hello-world/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/tags/announcement/</loc>
+    <lastmod>2017-01-25T02:14:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/</loc>
+    <lastmod>2017-01-25T02:14:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/categories/misc/</loc>
+    <lastmod>2017-01-25T02:14:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/post/</loc>
+    <lastmod>2017-01-25T02:14:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/tags/site/</loc>
+    <lastmod>2017-01-25T02:14:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/tags/stuff/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heroish.org/tags/test/</loc>
+    <lastmod>2017-01-25T02:14:45-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
