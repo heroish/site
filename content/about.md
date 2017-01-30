@@ -3,7 +3,7 @@ date: 2017-01-17 18:24:55-05:00
 title: About
 ---
 
-<img src="img/dafuq_square.png" class="avatar" alt="avatar" /> >Hello! My name's Ree and I'm a college student studying Communication Arts. My favorite thing to do is getting lost in doing other stuff like: drawing, coding, writing, reading, gaming, and, as of late, making little tunes. I want to work at an animation or game studio someday, but I'm also perfectly content with making <del>memes</del> I mean, <del>puns</del> I MEAN, JOKES.
+<img src="/img/dafuq%20square.png" class="avatar" alt="avatar"/> Hello! My name's Ree and I'm a college student studying Communication Arts. My favorite thing to do is getting lost in doing other stuff like: drawing, coding, writing, reading, gaming, and, as of late, making little tunes. I want to work at an animation or game studio someday, but I'm also perfectly content with making <del>memes</del> I mean, <del>puns</del> I MEAN, JOKES.
 
 Some neato facts about myself:
 
@@ -17,5 +17,5 @@ Some neato facts about myself:
 <i class="fa fa-tumblr" aria-hidden="true"></i> [Tumblr](http://faolae.tumblr.com/)  
 <i class="fa fa-twitch" aria-hidden="true"></i> [Twitch](https://www.twitch.tv/faolae)  
 <i class="fa fa-steam" aria-hidden="true"></i> [Steam](http://steamcommunity.com/profiles/76561198069396785)  
-**Archive of Our Own** [reeses](http://archiveofourown.org/users/reeses)  
-**FanFiction** [faolae](https://www.fanfiction.net/~faolae)
+**AO3** [reeses](http://archiveofourown.org/users/reeses)  
+**FF.net** [faolae](https://www.fanfiction.net/~faolae)
