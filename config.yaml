@@ -20,4 +20,8 @@ menu:
       Weight: -100
       Identifier: "contact"
       URL: "/contact/"
+    - Name: "Exits"
+      Weight: -90
+      Identifier: "exits"
+      URL: "/exits/"
 ...
