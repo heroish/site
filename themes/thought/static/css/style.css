@@ -63,15 +63,6 @@ label {
   display: block;
 }
 
-.avatar {
-  float: left;
-  shape-outside: circle(50%);
-  width: 125px;
-  height: 125px;
-  margin: 1em;
-  border-radius: 100%;
-}
-
 /* line 27, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 #wrapper {
   margin: 0 auto;

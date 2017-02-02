@@ -3,7 +3,7 @@ date: 2017-01-17 18:24:55-05:00
 title: About
 ---
 
-<img src="/img/dafuq%20square.png" class="avatar" alt="avatar"/> Hello! My name's Ree and I'm a college student studying Communication Arts. My favorite thing to do is getting lost in doing other stuff like: drawing, coding, writing, reading, gaming, and, as of late, making little tunes. I want to work at an animation or game studio someday, but I'm also perfectly content with making <del>memes</del> I mean, <del>puns</del> I MEAN, JOKES.
+<img src="/img/dafuq%20square.png" alt="avatar" style="shape-outside:circle(50%); border-radius:100%; margin:1em; width:100px; height:100px; float:left;" /> Hello! My name's Ree and I'm a college student studying Communication Arts. My favorite thing to do is getting lost in doing other stuff like: drawing, coding, writing, reading, gaming, and, as of late, making little tunes. I want to work at an animation or game studio someday, but I'm also perfectly content with making <del>memes</del> I mean, <del>puns</del> I MEAN, JOKES.
 
 Some neato facts about myself:
 
