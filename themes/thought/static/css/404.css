@@ -24,17 +24,21 @@ section {
 }
 
 article {
-  padding: 20px;
+  padding: 50px;
   background: #fefefe;
+  text-align: justify;
+  border-radius: 10px;
 }
+
+p:last-child { margin-bottom: 0; }
 
 h1 {
   font-family: "Caveat Brush", "arial black", cursive;
+  font-size: 2rem;
   font-weight: normal;
   color: #d99fab;
+  margin: 0;
 }
 
-.face {
-  fill: #fff;
-  width: 150px;
-}
+.big { display: block; width: 200px; margin: 0 auto 50px; }
+.face { fill: #fff; }
