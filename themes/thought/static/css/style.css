@@ -352,6 +352,7 @@ figcaption {
   color: #888;
   text-align: center;
 }
+figcaption p { margin: 0; }
 
 /* line 204, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 #pages {
