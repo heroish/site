@@ -343,7 +343,7 @@ hr {
     margin-bottom: -35px;
     padding-bottom: 0; }
 
-figure { padding: 5px; }
+figure { padding: 5px; margin: 10px auto; }
 figure img { width: 100%; height: auto; }
 figcaption {
   font-family: "Crimson Text", garamond, serif;
@@ -351,7 +351,6 @@ figcaption {
   font-style: italic;
   color: #888;
   text-align: center;
-  padding-top: 5px;
 }
 
 /* line 204, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
