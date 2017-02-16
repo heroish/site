@@ -1,6 +1,6 @@
 ---
 date: 2017-01-25T01:36:51-05:00
-title: contact
+title: Contact
 ---
 
 <form action="https://getform.org/f/7070cc95-b749-4d46-b00c-9468720b02bf" method="POST">

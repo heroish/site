@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Caveat+Brush|Montserrat");
+
+body {
+  font-family: Montserrat, helvetica, sans-serif;
+  font-size: 1rem;
+  color: #666;
+  background-color: #FFD3CE;
+}
+
+a {
+  color: #ba888b;
+  text-decoration: none;
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+a:hover, a:focus { color: #d99fab; }
+
+section {
+  width: 75%;
+  margin: 50px auto 0;
+}
+
+article {
+  padding: 20px;
+  background: #fefefe;
+}
+
+h1 {
+  font-family: "Caveat Brush", "arial black", cursive;
+  font-weight: normal;
+  color: #d99fab;
+}
+
+.face {
+  fill: #fff;
+  width: 150px;
+}
