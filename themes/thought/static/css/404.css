@@ -20,25 +20,40 @@ a:hover, a:focus { color: #d99fab; }
 
 section {
   width: 75%;
-  margin: 50px auto 0;
+  margin: 100px auto 0;
 }
 
 article {
+  position: relative;
+  margin: 0 auto;
   padding: 50px;
   background: #fefefe;
   text-align: justify;
   border-radius: 10px;
 }
 
+:after {
+  content: '';
+  position: absolute;
+  border-style: solid;
+  border-width: 0 15px 15px;
+  border-color: #fff transparent;
+  display: block;
+  width: 0;
+  z-index: 1;
+  margin-left: -15px;
+  top: -15px;
+  left: 50%;
+}
+
 p:last-child { margin-bottom: 0; }
 
 h1 {
-  font-family: "Varela Round", helvetica, sans-serif;
   font-size: 2rem;
   font-weight: normal;
   color: #d99fab;
   margin: 0;
 }
 
-.big { display: block; width: 175px; margin: 50px auto 50px; }
+.big { display: block; width: 250px; margin: 50px auto; }
 .face { fill: #fff; }
