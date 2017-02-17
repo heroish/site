@@ -343,13 +343,20 @@ hr {
     margin-bottom: -35px;
     padding-bottom: 0; }
 
-figure { padding: 5px; margin: 10px auto; }
+figure {
+  padding: 10px;
+  margin: 10px auto;
+  border: 1px solid #ccc;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
+}
 figure img { width: 100%; height: auto; }
 figcaption {
   font-family: "Crimson Text", garamond, serif;
   font-size: 0.9rem;
   font-style: italic;
-  color: #888;
   text-align: center;
 }
 figcaption p { margin: 0; }

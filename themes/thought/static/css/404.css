@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css?family=Caveat+Brush|Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
 
 body {
-  font-family: Montserrat, helvetica, sans-serif;
+  font-family: "Varela Round", helvetica, sans-serif;
   font-size: 1rem;
   color: #666;
   background-color: #FFD3CE;
@@ -33,7 +33,7 @@ article {
 p:last-child { margin-bottom: 0; }
 
 h1 {
-  font-family: "Caveat Brush", "arial black", cursive;
+  font-family: "Varela Round", helvetica, sans-serif;
   font-size: 2rem;
   font-weight: normal;
   color: #d99fab;
