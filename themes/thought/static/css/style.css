@@ -364,6 +364,18 @@ figure img {
 figcaption { font-size: 1rem; font-style: italic; text-align: center; }
 figcaption p { margin: 0; }
 
+.avatar {
+  shape-outside: circle(50%);
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  border-radius: 100%;
+  margin: 1em;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
 /* line 204, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 #pages {
   display: inline-block;
