@@ -345,7 +345,7 @@ hr {
 
 figure {
   padding: 10px;
-  margin: 10px auto;
+  margin: 1.5rem auto;
   border: 1px solid #ccc;
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
@@ -354,20 +354,14 @@ figure {
 }
 
 figure img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
 }
-
-figcaption {
-  font-family: "Crimson Text", garamond, serif;
-  font-size: 0.9rem;
-  font-style: italic;
-  text-align: center;
-}
+figcaption { font-size: 1rem; font-style: italic; text-align: center; }
 figcaption p { margin: 0; }
 
 /* line 204, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
