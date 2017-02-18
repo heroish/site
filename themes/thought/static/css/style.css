@@ -241,6 +241,14 @@ nav {
   border-radius: 5px;
   cursor: pointer; }
 
+@media screen and (max-width: 320px) {
+  .toggle {
+    left: 10px;
+    padding: 3px;
+    font-size: 1.25rem;
+  }
+}
+
 /* line 117, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 .closebtn {
   position: absolute;
