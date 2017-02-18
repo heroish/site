@@ -30,6 +30,11 @@ blockquote {
   border-left: 5px solid #ccc;
 }
 
+ol { list-style-type: lower-roman; }
+ul li { list-style-image: url(/img/s29.gif); }
+ul li:nth-child(3n+2) { list-style-image: url(/img/s32.gif); }
+ul li:nth-child(3n) { list-style-image: url(/img/s34.gif); }
+
 code, pre, samp {
   font-family: Inconsolata, "Courier New", courier, monospace;
   color: #fff;
