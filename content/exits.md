@@ -5,12 +5,12 @@ title: Exits
 
 Some listings that I've joined:
 
-I'm a [![Fighting](http://i.imgur.com/T3NPFF8.gif) ![Dragon](http://i.imgur.com/vViz7qc.gif)](http://pkmn.zeruda.org/clique) type!  
-![Even the Odds](http://i.imgur.com/VHFnZPA.gif) My Fire Emblem class is a [hero](http://class.taguel.org/)!
+I'm a [![Fighting](/img/fighting.gif) ![Dragon](/img/dragon.gif)](http://pkmn.zeruda.org/clique) type!  
+![Hero Sprite](/img/hero.gif) My Fire Emblem class is a [hero](http://class.taguel.org/)!
 
-[![Smooth Sailing Listings](http://i.imgur.com/czznau9.png)](https://smoothsailing.asclaria.org/) [![What's Your Type?](http://i.imgur.com/zvKdfTg.gif)](http://pkmn.zeruda.org/clique)
+[![Smooth Sailing Listings](/img/ssl-button.png)](https://smoothsailing.asclaria.org/) [![What's Your Type?](/img/wyt-button.gif)](http://pkmn.zeruda.org/clique)
 
-[![Bloglist Me](http://i.imgur.com/UpKkrQf.png)](http://bloglist.me)
+[![Bloglist Me](/img/blm-button.png)](http://bloglist.me)
 
 Here are some affiliates/link exchanges!
 
