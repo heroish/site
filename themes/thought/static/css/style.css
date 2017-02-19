@@ -245,12 +245,12 @@ nav {
   border-radius: 5px;
   cursor: pointer; }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 720px) {
   .toggle {
     top: 10px;
     left: 10px;
-    padding: 3px;
-    font-size: 1.15rem;
+    padding: 3px 8px;
+    font-size: 1.25rem;
   }
 }
 
