@@ -10,8 +10,7 @@ body {
   padding: 0; }
 
 /* line 18, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
-a {
-  text-decoration: none; }
+a { text-decoration: none; }
 
 /* line 19, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 h1, header h2, h2, h3, h4, h5, h6 {
@@ -40,6 +39,13 @@ code, pre, samp {
   color: #fff;
   background: #a9777a;
 }
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub { top: 0.4em; }
 
 input, textarea, select {
   font: 1.15rem montserrat, arial, sans-serif;
