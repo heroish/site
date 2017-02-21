@@ -21,6 +21,7 @@ h1, header h2, h2, h3, h4, h5, h6 {
 
 /* line 25, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 b, strong { font-weight: 500; color: #111; }
+i, em { color: #888; }
 u, ins { text-decoration: none; border-bottom: 1px solid #ccc; }
 
 blockquote {

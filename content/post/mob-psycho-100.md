@@ -12,7 +12,7 @@ tags:
 title: Fan Letter to Mob and Co.
 ---
 
-In how many ways shall I compare *Mob Psycho 100* to a masterpiece? This show rightfully deserves the praise and hype that it receives from critics and fans alike. And let me tell all about it, my friends! First, let's start off with this pure image:
+In how many ways shall I compare *Mob Psycho 100* to a masterpiece? This show rightfully deserves the praise and hype that it receives from critics and fans alike. And let me tell you all about it, my friends! First, let's start off with this pure image:
 
 {{< figure src="/img/screenshots/mob-loves-milk.png" alt="Mob loves milk" caption="Look at this small boy. He loves milk. How purer can he get?" >}}
 
