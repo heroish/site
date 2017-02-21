@@ -1,10 +1,11 @@
 /* i made a blog instead whoops */
-@import url("https://fonts.googleapis.com/css?family=Caveat+Brush|Arimo:400,400i,700,700i|Inconsolata");
+@import url("https://fonts.googleapis.com/css?family=Caveat+Brush|Montserrat:300,300i,400,500,500i|Inconsolata");
 
 /* line 7, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 body {
-  font-family: Arimo, arial, helvetica, sans-serif;
+  font-family: Montserrat, arial, helvetica, sans-serif;
   font-size: 1rem;
+  font-weight: 300;
   color: #666;
   background: #fefefe;
   margin: 0;
@@ -19,7 +20,7 @@ h1, header h2, h2, h3, h4, h5, h6 {
   font-weight: normal; }
 
 /* line 25, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
-b, strong { color: #111; }
+b, strong { font-weight: 500; color: #111; }
 u, ins { text-decoration: none; border-bottom: 1px solid #ccc; }
 
 blockquote {
@@ -48,7 +49,8 @@ sup, sub {
 sub { top: 0.4em; }
 
 input, textarea, select {
-  font: 1.15rem Inconsolata, "Courier New", courier, monospace;
+  font-size: 1.15rem;
+  font-weight: 400;
   color: #a9777a;
   background: #fff;
   padding: 5px 10px;
@@ -81,7 +83,7 @@ button:active, button:focus {
 }
 
 label {
-  font: 0.95rem Inconsolata, "Courier New", courier, monospace;
+  font-size: 0.95rem;
   color: #888;
   text-indent: 10px;
   display: block;
@@ -192,7 +194,6 @@ nav {
   width: 0;
   height: 100%;
   padding-top: 50px;
-  font-family: Inconsolata, "Courier New", courier, monospace;
   background: #ffd3ce;
   overflow-x: hidden;
   -webkit-transition: 0.5s;
@@ -218,6 +219,7 @@ nav {
     padding: 5px 10px;
     margin: 0 10px 10px;
     text-transform: capitalize;
+    font-weight: 400;
     color: #fff;
     background: #d99fab;
     -webkit-border-radius: 5px;
@@ -269,7 +271,7 @@ nav {
   right: 15px;
   margin: 0;
   padding: 0;
-  font: 2.5rem/1rem Arimo, arial, helvetica, sans-serif;
+  font: 2.5rem/1rem Montserrat, arial, helvetica, sans-serif;
   color: #888;
   background: none;
   -webkit-transition: none;
@@ -298,7 +300,8 @@ section {
 /* line 137, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 article {
   margin: 50px auto;
-  font: 1.2rem/1.5 Arimo, arial, helvetica, sans-serif; }
+  font-size: 1.2rem;
+  line-height: 1.5 }
   /* line 140, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
   article:first-child {
     margin-top: 0; }
@@ -348,7 +351,7 @@ article {
 
 /* details */
 .comment {
-  font: 1.25rem Inconsolata, "Courier New", courier, monospace;
+  font: 400 1.25rem Montserrat, arial, helvetica, sans-serif;
   color: #fff;
   background: #a9777a;
   padding: 5px 10px;
@@ -365,7 +368,7 @@ article {
 /* line 161, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 .meta, .tagged {
   margin-top: 10px;
-  font: 0.9rem Inconsolata, "Courier New", courier, monospace; }
+  font-size: 0.9rem; }
   /* line 164, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 /* line 173, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
 .tagged { margin-bottom: 30px; }
@@ -471,7 +474,7 @@ hr {
 footer {
   clear: both;
   padding: 20px;
-  font: 0.8rem Inconsolata, "Courier New", courier, monospace;
+  font-size: 0.8rem;
   background-color: #eee; }
 
 @-webkit-keyframes navLeft {
