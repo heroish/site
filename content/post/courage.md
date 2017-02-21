@@ -22,4 +22,4 @@ Courage quakes, chokes.
 Smoke shivers, quivers.  
 
 Yong-gi is bold, free--  
-Yeon-gi is
+Yeon-gi is transient, 
