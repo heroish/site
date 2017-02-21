@@ -50,7 +50,7 @@ And, honest to god, I cannot leave out the voice acting because the voice actors
 
 I've already written quite a bit about the show, so I'd like to end this review with a very favorable rating of ten stars out of five.
 
-![star](/img/star.gif)![star](/img/star.gif)![star](/img/star.gif)![star](/img/star.gif)![star](/img/star.gif)![star](/img/star.gif)![star](/img/star.gif)![star](/img/star.gif)![star](/img/star.gif)![star](/img/star.gif)
+![star](/img/star.gif) ![star](/img/star.gif) ![star](/img/star.gif) ![star](/img/star.gif) ![star](/img/star.gif) ![star](/img/star.gif) ![star](/img/star.gif) ![star](/img/star.gif) ![star](/img/star.gif) ![star](/img/star.gif)
 
 You can watch this show for free at [Crunchyroll](http://www.crunchyroll.com/mob-psycho-100)!
 
