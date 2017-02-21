@@ -10,7 +10,7 @@
 		<a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a>
 		{{ end }}
 	<h1>Latest Posts</h1>
-		{{ range first 5 (where .Site.Pages "Type" "post") }}
+		{{ range first 3 (where .Site.Pages "Type" "post") }}
 		<a href="{{ .Permalink }}">{{ .Title }}</a>
 		{{ end }}
 </nav>

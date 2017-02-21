@@ -11,6 +11,8 @@ permalinks:
 params:
   author: "Ree"
   description: "a nerd's web playground"
+taxonomies:
+  tag: "tagged"
 menu:
   main:
     - Name: "About"
@@ -21,8 +23,12 @@ menu:
       Weight: -100
       Identifier: "contact"
       URL: "/contact/"
-    - Name: "Exits"
+    - Name: "Shoutbox"
       Weight: -90
+      Identifier: "shoutbox"
+      URL: "/shoutbox/"
+    - Name: "Exits"
+      Weight: -80
       Identifier: "exits"
       URL: "/exits/"
 ...
