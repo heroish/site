@@ -325,10 +325,8 @@ article {
     -ms-transition: color 0.6s ease;
     -o-transition: color 0.6s ease;
     transition: color 0.6s ease; }
-    /* line 144, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
-    article a:hover, article a:focus {
-      color: #ccc; }
-  article i, article em { color: #aaa; }
+    article a:hover, article a:focus { color: #666; }
+    article i, article em { color: #aaa; }
   /* line 145, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
   article h1 {
     margin: 0 0 20px 0;
