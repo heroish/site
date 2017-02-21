@@ -5,6 +5,7 @@ title: Heroish
 metaDataFormat: "yaml"
 theme: "thought"
 disqusShortname: "hero-y"
+paginate: 5
 permalinks:
   post: /:section/:title/
 params:
