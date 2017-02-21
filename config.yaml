@@ -11,8 +11,6 @@ permalinks:
 params:
   author: "Ree"
   description: "a nerd's web playground"
-taxonomies:
-  tag: "tagged"
 menu:
   main:
     - Name: "About"
