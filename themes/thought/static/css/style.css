@@ -50,15 +50,16 @@ sup, sub {
 sub { top: 0.4em; }
 
 input, textarea, select {
-  font-family: Lekton, "Courier New", courier, monospace;
+  font-family: Montserrat, arial, helvetica, sans-serif;
   font-size: 1.25rem;
-  font-weight: 400;
+  font-weight: 300;
   color: #a9777a;
   background: #fff;
   padding: 5px 10px;
   margin-bottom: 10px;
   width: 100%;
   border: 1px solid #d99fab;
+  background: #fff;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;

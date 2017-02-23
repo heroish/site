@@ -21,10 +21,6 @@ menu:
       Weight: -100
       Identifier: "contact"
       URL: "/contact/"
-    - Name: "Shoutbox"
-      Weight: -90
-      Identifier: "shoutbox"
-      URL: "/shoutbox/"
     - Name: "Exits"
       Weight: -80
       Identifier: "exits"
