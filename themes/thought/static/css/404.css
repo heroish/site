@@ -18,31 +18,29 @@ a {
 }
 a:hover, a:focus { color: #d99fab; }
 
-section {
-  width: 75%;
-  margin: 100px auto 0;
-}
+section { width: 75%; margin: 100px auto 0; }
 
 article {
   position: relative;
   margin: 0 auto;
   padding: 50px;
+  width: 50%;
   background: #fefefe;
   text-align: justify;
   border-radius: 10px;
 }
 
-:after {
+article:after {
   content: '';
   position: absolute;
   border-style: solid;
-  border-width: 0 15px 15px;
+  border-width: 15px 15px 0;
   border-color: #fff transparent;
   display: block;
   width: 0;
   z-index: 1;
   margin-left: -15px;
-  top: -15px;
+  bottom: -15px;
   left: 50%;
 }
 

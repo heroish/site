@@ -5,6 +5,8 @@ title: About
 
 <img src="/img/dafuq%20square.png" alt="avatar" class="avatar" /> Hello! My name's Ree and I'm a college student studying Communication Arts. My favorite thing to do is getting lost in doing other stuff like: drawing, coding, writing, reading, gaming, and, as of late, making little tunes. I want to work at an animation or game studio someday, but I'm also perfectly content with making <del>memes</del> I mean, <del>puns</del> I MEAN, JOKES.
 
+The name of this blog, *Heroish*, came from my inspirations throughout life like magical girls, superheroes, and animated Studio Ghibli films. They all influenced my art and attitude about life in positive ways. My goal in life is to inspire others like how Studio Ghibli has inspired me: to live a better life.
+
 Some neato facts about myself:
 
 - In both the Western and Chinese zodiacs, I'm an ox. So I'm twice as stubborn. \*badum tsh\*

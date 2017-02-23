@@ -4,7 +4,6 @@ categories:
 - Misc
 date: 2017-02-20T11:02:07-05:00
 tags:
-- life
 - music
 - hype
 title: Not Today

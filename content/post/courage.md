@@ -6,7 +6,7 @@ date: 2017-02-25T20:18:27-05:00
 tags:
 - poem
 - drabble
-- personal
+- life
 title: Courage Like Smoke
 draft: true
 ---
@@ -22,4 +22,4 @@ Courage quakes, chokes.
 Smoke shivers, quivers.  
 
 Yong-gi is bold, free--  
-Yeon-gi is transient, 
+Yeon-gi is transient,

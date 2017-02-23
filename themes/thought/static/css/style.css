@@ -1,7 +1,8 @@
 /* i made a blog instead whoops */
-@import url("https://fonts.googleapis.com/css?family=Caveat+Brush|Montserrat:300,300i,400,500,500i|Inconsolata");
+@import url("https://fonts.googleapis.com/css?family=Caveat+Brush|Montserrat:300,300i,400,500,500i|Lekton");
 
-/* line 7, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
+::selection { background: #ffd3ce; color: #a9777a; }
+
 body {
   font-family: Montserrat, arial, helvetica, sans-serif;
   font-size: 1rem;
@@ -20,7 +21,7 @@ h1, header h2, h2, h3, h4, h5, h6 {
   font-weight: normal; }
 
 /* line 25, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
-b, strong { font-weight: 500; color: #111; }
+b, strong { font-weight: 500; }
 u, ins { text-decoration: none; border-bottom: 1px solid #ccc; }
 
 blockquote {
@@ -36,7 +37,7 @@ ul li:nth-child(3n+2) { list-style-image: url(/img/s32.gif); }
 ul li:nth-child(3n) { list-style-image: url(/img/s34.gif); }
 
 code, pre, samp {
-  font-family: Inconsolata, "Courier New", courier, monospace;
+  font-family: Lekton, "Courier New", courier, monospace;
   color: #fff;
   background: #a9777a;
 }
@@ -49,7 +50,8 @@ sup, sub {
 sub { top: 0.4em; }
 
 input, textarea, select {
-  font-size: 1.15rem;
+  font-family: Lekton, "Courier New", courier, monospace;
+  font-size: 1.25rem;
   font-weight: 400;
   color: #a9777a;
   background: #fff;
@@ -326,7 +328,6 @@ article {
     -o-transition: color 0.6s ease;
     transition: color 0.6s ease; }
     article a:hover, article a:focus { color: #666; }
-    article i, article em { color: #aaa; }
   /* line 145, /Users/Ree/Documents/extra doc/for funsies/coding/own/web novel/css/stylesheet.scss */
   article h1 {
     margin: 0 0 20px 0;
@@ -476,6 +477,7 @@ footer {
   clear: both;
   padding: 20px;
   font-size: 0.8rem;
+  font-weight: 400;
   background-color: #eee; }
 
 @-webkit-keyframes navLeft {
