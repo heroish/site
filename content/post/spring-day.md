@@ -6,6 +6,7 @@ date: 2017-02-15T22:37:56-05:00
 tags:
 - music
 - hype
+- BTS
 title: OH MY GOSH!!
 ---
 
