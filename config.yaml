@@ -22,7 +22,7 @@ menu:
       Identifier: "contact"
       URL: "/contact/"
     - Name: "Exits"
-      Weight: -80
+      Weight: -90
       Identifier: "exits"
       URL: "/exits/"
 ...
