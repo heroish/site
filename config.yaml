@@ -6,6 +6,8 @@ metaDataFormat: "yaml"
 theme: "thought"
 disqusShortname: "hero-y"
 paginate: 5
+enableEmoji: true
+publishDir: "blog"
 permalinks:
   post: /:section/:title/
 params:
