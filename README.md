@@ -1,4 +1,3 @@
-# heroish site
-test take... 500......
+# Heroish
 
-it took me ten thousand years.... idk what i'm doign anymore lmfao.....
+This is a repo for the blogging site **Heroish** (now archived). Feel free to look through and see what kind of nonsense I struggled with. Built with Hugo, tears, and hard work.
