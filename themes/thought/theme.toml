@@ -2,12 +2,12 @@
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
 name = "Thought"
-description = "lol what not urs binch"
+description = "Personal blogging theme with own art included."
 homepage = "http://heroish.org/"
 tags = ["", ""]
 features = ["", ""]
 min_version = 0.17
 
 [author]
-  name = "Ree"
-  homepage = "http://heroish.org/"
+  name = "Lev"
+  homepage = "https://lev.kim/"
