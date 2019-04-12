@@ -9,12 +9,16 @@ paginate: 5
 enableEmoji: true
 publishDir: "blog"
 permalinks:
-  post: /:section/:title/
+  post: /blog/:section/:title/
 params:
   author: "Ree"
   description: "a nerd's web playground"
 menu:
   main:
+    - Name: "Index"
+      Weight: -120
+      Identifier: "index"
+      URL: "https://lev.kim/"
     - Name: "About"
       Weight: -110
       Identifier: "about"
