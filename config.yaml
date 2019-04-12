@@ -9,7 +9,7 @@ paginate: 5
 enableEmoji: true
 publishDir: "blog"
 permalinks:
-  post: /blog/:section/:title/
+  post: /:section/:title/
 params:
   author: "Ree"
   description: "a nerd's web playground"
